@@ -15,7 +15,7 @@ Electronics and Communication Engineering student
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" /> <img height="50" width="50" src="https://camo.githubusercontent.com/b693f93e8574e1056ec0cbeda4208bb4d0965fdfaaee4c15ba2c9dad441bb2e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" />
 </br>
 ### Coding Profile
-[<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"/>](https://www.geeksforgeeks.org/user/pondarshini/)
+[<img height="50" width="50" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"/>](https://www.geeksforgeeks.org/user/pondarshini/)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/pondarshini/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pondarshini?theme=dark&font=Marcellus&ext=contest)
 
