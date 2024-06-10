@@ -16,7 +16,7 @@ Electronics and Communication Engineering student
 </br>
 ### Coding Profile
 [<img height="40" width="40" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"/>](https://www.geeksforgeeks.org/user/pondarshini/)
-   [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/pondarshini/)
+</br> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/pondarshini/)
 </br>
 </br>
 
